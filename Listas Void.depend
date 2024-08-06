@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1683394091 source:c:\users\juancho\desktop\unla\ayedd\2- listas void\1- listas void sencillo (funciones completas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"time.h"
+	"lista.h"
+
+1683393389 c:\users\juancho\desktop\unla\ayedd\2- listas void\1- listas void sencillo (funciones completas)\lista.h
+
+1722975813 source:c:\users\juanm\onedrive\escritorio\1- listas void sencillo (funciones completas)\1- listas void sencillo (funciones completas)\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"string.h"
+	"lista.h"
+
+1722974049 c:\users\juanm\onedrive\escritorio\1- listas void sencillo (funciones completas)\1- listas void sencillo (funciones completas)\lista.h
+
+1722977789 source:c:\users\juanm\onedrive\escritorio\1- listas void sencillo (funciones completas)\1- listas void sencillo (funciones completas)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"time.h"
+	"lista.h"
+

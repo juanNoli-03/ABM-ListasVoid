@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1683246179 source:c:\users\juancho\desktop\unla\ayedd\clase listas void\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"time.h"
+	"lista.h"
+
+1683246734 source:c:\users\juancho\desktop\unla\ayedd\clase listas void\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"string.h"
+	"lista.h"
+
+1683246044 c:\users\juancho\desktop\unla\ayedd\clase listas void\lista.h
+
+1683319047 source:c:\users\aula11\desktop\clase listas void\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"string.h"
+	"lista.h"
+
+1683318485 c:\users\aula11\desktop\clase listas void\lista.h
+
+1683318591 source:c:\users\aula11\desktop\clase listas void\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"time.h"
+	"lista.h"
+
+1683394004 source:c:\users\juancho\desktop\unla\ayedd\2- listas void\clase listas void\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	"string.h"
+	"lista.h"
+
+1683393389 c:\users\juancho\desktop\unla\ayedd\2- listas void\clase listas void\lista.h
+
+1683394091 source:c:\users\juancho\desktop\unla\ayedd\2- listas void\clase listas void\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"time.h"
+	"lista.h"
+
